@@ -14,6 +14,12 @@ An Excel healthcare analytics project summarising large-scale patient, revenue a
 | Revenue | **$1.4B** |
 | Average length of stay | **15 days** |
 
+## Excel workbook
+
+[Open the original Medcore Healthcare Analysis workbook](02_excel/Medcore%20Healthcare%20Analysis.xlsx)
+
+The repository now includes the original Excel analysis workbook alongside the exported dashboard, providing the underlying project evidence for the network-level healthcare analysis.
+
 ## Tools and skills
 
 - Microsoft Excel
